@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- Link1
-- Link2
-- Link3
+- [tapInForm Wireframe](https://github.com/alexjlevy/liftoff-assignments/blob/master/tapInForm.pdf)
+- [tapInHomePage Wireframe](https://github.com/alexjlevy/liftoff-assignments/blob/master/tapInHomePage.pdf)
+- [tapInSignUp Wireframe](https://github.com/alexjlevy/liftoff-assignments/blob/master/tapInSignUp.pdf)
 
 ### Project Tracker
 
