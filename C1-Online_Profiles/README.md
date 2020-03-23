@@ -13,6 +13,6 @@ https://github.com/alexjlevy/
 https://www.linkedin.com/in/iamalexlevy/
 
 ### Resume
-[Alex Levy LC Resume] (https://github.com/alexjlevy/liftoff-assignments/blob/master/LC%20Resume%20Alex%20Levy.pdf)
+[Alex Levy LC Resume](https://github.com/alexjlevy/liftoff-assignments/blob/master/LC%20Resume%20Alex%20Levy.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
