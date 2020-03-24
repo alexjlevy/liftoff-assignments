@@ -18,4 +18,4 @@ https://trello.com/alexjlevy/boards
 
 ### Project Repo Link
 
-https://github.com/alexjlevy/tap-in
+https://github.com/alexjlevy/tapin
